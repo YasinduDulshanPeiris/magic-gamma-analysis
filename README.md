@@ -1,6 +1,6 @@
 # MAGIC Gamma Telescope Data Analysis
 
-This repository contains a Jupyter Notebook (`model.ipynb`) for analyzing the MAGIC Gamma Telescope dataset, which classifies gamma and hadron events based on telescope measurements. The notebook implements machine learning models, including k-Nearest Neighbors (kNN) and a neural network, to predict event classes.
+This repository contains a Jupyter Notebook (`models.ipynb`) for analyzing the MAGIC Gamma Telescope dataset, which classifies gamma and hadron events based on telescope measurements. The notebook implements machine learning models, including k-Nearest Neighbors (kNN) and a neural network, to predict event classes.
 
 ## Dataset
 The dataset is sourced from the UCI Machine Learning Repository:
